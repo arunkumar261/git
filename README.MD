@@ -14,4 +14,4 @@ THis is the first commit from main branch
 ### squash
 * started development
 * still adding
-* now dev is completed
+* done dev
